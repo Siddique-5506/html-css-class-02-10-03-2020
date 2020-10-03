@@ -1,0 +1,80 @@
+#header{
+    background-color: black;
+    height: 40px;
+    color: white;
+    text-align: center;
+    opacity: 50%;
+   margin-top: 0px;
+    font-size: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 100px;
+}
+body{
+    margin-top: 0px;
+    background-color: rgb(217, 223, 235);
+    background-image: url('https://wallpaperaccess.com/full/824227.jpg');
+    opacity: 80%;
+    
+}
+#footer{
+    background-color: black;
+    height: 40px;
+    color: white;
+    text-align: center;
+    margin-left: 50px;
+    opacity: 50%;
+    margin-right: 50px;
+    font-size: 30px;
+}
+#content{
+    text-align: center;
+    background-repeat: no-repeat;
+    align-content: center;
+    
+    height: 600px;
+}
+#backimage{
+    height: 600px;
+    opacity: 30px;
+}
+.menu{
+    padding-left: 30px;
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+table{
+    margin-top: 80px;
+    border-color: black;
+    
+    border-color: black;
+    border: 2px solid;
+    margin: auto;
+    margin-bottom: 200px;
+}
+thead{
+   background-color: green;
+   color: white;
+   
+    
+}
+
+tbody{
+    color: white;
+    
+}
+.even{
+    background-color: rgb(143, 184, 30);
+    border: 5px solid green;
+}
+.odd{
+    background-color: rgb(233, 126, 126);
+    border: 5px solid green;
+}
+.icon{
+    vertical-align: middle;
+    padding-left: 200px;
+    height: 20px;
+    opacity: 50%;
+}
